@@ -1,0 +1,16 @@
+/*
+    Theme Name: Popper Child Theme
+    Description: Popper Child Theme
+    Author: Joseph Bonovich
+    Template: popper
+    Version: 0.1.0
+    */
+    
+    @import url("../popper/style.css");
+    
+    
+    body {
+        background: gray;
+        font-family: sans-serif;
+        color:ivory;
+    }
